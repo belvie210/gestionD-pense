@@ -10,8 +10,9 @@ email:parfaitkitondo@gmail.com
 mot de passe:parfait123
 grâde:Directeur
 
-les autres détails vous les verrais une fois que la base de données sera importer
+les autres détails vous les verrez une fois que la base de données sera importer,
 nom de la base de données:projet_l3_depense
 
 pour plus d'info contactez-nous 
 email: bokulubelvie@gmaul.com
+contacts:0977482157, 0824026578
